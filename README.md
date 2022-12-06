@@ -7,7 +7,7 @@ Additional tools/utils: Bash, Make HW interface: SPI Data driven format: xml
 
 Play modes: Man vs AI
 
-AI supports next complexity levels: Random move, Win strategy
+AI supports next complexity levels: Random move, Win strategy.
 
 Actions: New, Save, Load
 
